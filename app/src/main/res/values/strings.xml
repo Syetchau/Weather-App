@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Today Weather</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="geo">Geo coords</string>
+    <string name="cloud">Cloudiness</string>
+    <string name="five_day_forecast">5 DAYS WEATHER FORECAST</string>
+    <string name="weather">Weather In</string>
+    <string name="geolocation">[,]</string>
+    <string name="date">Friday</string>
+
+</resources>
